@@ -1,4 +1,0 @@
-trymeditation
-=============
-
-Try meditation website.

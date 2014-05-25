@@ -1,10 +1,3 @@
----
-layout: post
-
-author:
-  name: Amédée d'Aboville
----
-
 ##Isn't meditation some ancient yogic art or new age bullshit?
 No.
 
