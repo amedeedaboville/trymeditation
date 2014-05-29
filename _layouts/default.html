@@ -10,13 +10,21 @@
         <meta property="og:image" content="{{ site.baseurl }}/images/{{ page.cover_image }}"/>
         <meta property="og:site_name" content="{{ site.title }}">
         <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/syntax.css">
         <link rel="stylesheet" href="css/solo.css">
         {% include head.html %}
     </head>
     <body>
-        <h1><a href="./">{{ site.h1_tag_text }}</a></h1>
+        <article>
+        <header style="background-image:url({{site.baseurl}}/images/{{ site.cover_image }});">
+                <h1>{{ site.title }}</h1>
+                {% if site.inc.subtitle %}<h3>{{ site.subtitle }}</h3>{% endif %}
+        </header>
+        <section>
         {{ content }}
+        <section>
+        </article>
         {% include scripts.html %}
     </body>
 </html>
