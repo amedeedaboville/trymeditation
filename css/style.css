@@ -1,0 +1,39 @@
+header {
+    height: 500px;
+    background-size: cover;
+    background-color: #111;
+    background-size: cover;
+    background-position: center center;
+    z-index: 1;
+    text-align:center;
+    padding-right:10%;
+    padding-top:10%;
+}
+.article-cover, .blog-cover {
+    max-width: 100%;
+    margin-top: 0;
+    position: relative;
+    max-height: 460px;
+    overflow: hidden;
+    background: #eee;
+}
+
+section {
+    margin: auto;
+//    text-align: center;
+    padding-top: 5em;
+    padding-right: 5%;
+    overflow:hidden;
+}
+
+article { 
+    margin:0 auto 1.5em;
+}
+.container {
+    max-width: 820;
+    margin: auto;
+}
+
+header h1 {
+    padding-top:20%;
+}
