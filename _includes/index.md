@@ -1,11 +1,10 @@
-##Isn't meditation some ancient yogic art or new age bullshit?
-No.
+###Isn't meditation some ancient yogic art/new age bullshit?
 
-Well, meditation is ancient, but it's not about trying to levitate, travel to parallel dimensions or talk to the dead.
+Meditation is ancient, but it's not about trying to levitate, travel to parallel dimensions or talk to the dead.
 
 ## What is meditation?
 
-Meditation is simply a certain kind of focused thinking. You eventually get pretty good at focusing in general.
+Meditation is simply a certain kind of focused thinking.
 
 There are tremendous benefits. It overflows into other parts of life and sharpens your mind, making life high defintion.
 
@@ -17,10 +16,10 @@ There are tremendous benefits. It overflows into other parts of life and sharpen
 *   Meditators report feeling less stress.
 *   They live longer.
 *   Participants report a better outlook on life.
-*   Evidence that it cures these things...
+*   etc...
 
 ## Cool. How do I do it?  
-There are three main kinds of meditation, like guitar. You have acoustic, classical and electric meditation. Just kidding.
+There are three main kinds of meditation, like guitar. You have classical, acoustic and electric meditation. Just kidding.
 We recommend you start first with focused attention:
 
 #### Focused attention 
@@ -36,7 +35,7 @@ Don't worry if it's boring or anything. A lot of people try meditation and then 
 You are learning to sit still, and watch your body
 The goal is notice your thoughts as they arise, and get better control over your self. Focused attention is what Budhha did.
 
-#### Love and kindness.  
+#### Compassion meditation
 > "You yourself, as much as anybody in the entire universe, deserve your love and affection" - Buddha
 
 Essentially, you inwardly direct love at yourself and others. It's dumb to hate. 
@@ -63,10 +62,9 @@ Don't I have to do yoga to meditate? Do I have to be a flexible gymnast and cros
 No. The Lotus position (pic below) is the preferred position of meditators. You can sit that way for whole days without moving.
 Beginners though, find it hard to position themselves. You can also use a chair.
 
-####Half Lotus
-(maybe pic of half lotus?)
-####Cross Legged
-####Sit normally on a chair
+*    Half Lotus
+*    Cross Legged
+*    Sit normally on a chair
 
 ###Resources
 List some books here, websites, wiki pages
