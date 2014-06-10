@@ -1,8 +1,8 @@
-##Isn't meditation some ancient yogic art/new age bullshit?
+##Isn't meditation new age bullshit?
 
-Meditation is ancient, but it's not about trying to levitate, travel to parallel dimensions or talk to the dead.
+No. Meditation is ancient, but it's not bullshit.
 
-## What is meditation?
+It's not about trying to levitate, travel to parallel dimensions or talk to the dead.
 
 Meditation is simply a certain kind of focused thinking.
 
