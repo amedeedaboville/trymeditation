@@ -67,6 +67,15 @@ Beginners though, find it hard to position themselves. You can also use a chair.
 *    Sit normally on a chair
 
 ###Resources
+Peer Reviewed Journal Articles
+
+Can it cure your flu? 
+8 Weeks of mindfulness meditation (MBSR) was associated with an increase in antibody levels and left frontal brain activation associated with positive feelings. The level of the left-sided brain activation predicted the increase in defensive antibodies to the influenza virus. 
+http://www.ncbi.nlm.nih.gov/pubmed/12883106
+
+
+
+
 List some books here, websites, wiki pages
 *    Mindfulness in Plain English
 
