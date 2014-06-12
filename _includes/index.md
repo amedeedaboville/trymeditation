@@ -5,7 +5,7 @@ No. Meditation is ancient, but it's not bullshit.
 It's not about trying to levitate, travel to parallel dimensions or talk to the dead.
 
 Meditation is simply a certain kind of focused thinking.
-
+{% include section.html %}
 Your mind is like a glass of water. Put it down.
 It overflows into other parts of life and sharpens your mind, making life high defintion.
 
