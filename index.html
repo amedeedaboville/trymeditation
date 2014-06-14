@@ -2,6 +2,11 @@
 layout: default
 ---
 <div class="container">
-{% capture index %}{% include index.md %}{% endcapture %}
-{{ index | markdownify }}
+    {% for section in site.data.sections %}
+    <section>
+    <h1>{{ section.title }}</h1>
+    <p>
+    </p>
+    </section>
+    {% endfor %}
 </div>
