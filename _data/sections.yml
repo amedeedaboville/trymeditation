@@ -1,17 +1,18 @@
 - section : 
-     title : Isn't meditation new age bullshit?
+     title : 
      content : |
-        No. Meditation is ancient, but it's not bullshit.
+        Meditation is an amazing tool for life. It trains different circuits in your brain.
+
+        It overflows into other parts of life and sharpens your mind, making life high defintion.
 
         It's not about trying to levitate, travel to parallel dimensions or talk to the dead.
-
-        Meditation is simply a certain kind of focused thinking.
-        Your mind is like a glass of water. Put it down.
-        It overflows into other parts of life and sharpens your mind, making life high defintion.
+        It just practicing a certain kind of focused thinking, different from our to day to day task achieving. 
 
 - section : 
      title: How can it help me?
      content: |
+        There is a long list of scientifically proven benefits of meditation. Here are a few:
+
         *   Meditation has been proven to cure colds faster.
         *   It increases test scores.
         *   It increass all cognitive measures.
@@ -22,12 +23,27 @@
         *   People who meditate can plug in a USB stick on the first try
 
 - section:
+     title: Extreme (but validated) events that happen to meditators
+     content: |
+        You may have heard about yogis who can levitate or perform miracles. Those stories haven't been verified, but these
+        effects have (link to the paper after):
+
+        *    Jhana states: Eventually you focus so well that you ignore your senses and enter into an intense state of bliss and happiness.
+            http://www.hindawi.com/journals/np/2013/653572/abs/ 
+        *    This is very similar to a sensory deprivation state (Paper link).
+        *    Stopping your heart
+        *    Changing your body temperature
+
+- section:
      title: Famous People who meditate
      content: |
+        > I’ve been practicing meditation most of my life. I think it does something to your nervous system. It has given me
+            a calmness I don’t think I had at 19 - Jerry Seinfeld
+
         *    Ray Dalio
         *    Russell Brand
         *    Jenniffer Anniston
-        *    Jerry Seinfeld: He said “I’ve been practicing Transcendental Meditation most of my life. I think that does something to your nervous system. It has given me a calmness I don’t think I had at 19.” 
+        Your mind is like a glass of water. Put it down.
 
 - section:
      title: Resources
@@ -36,21 +52,13 @@
         *    Mindfulness in Plain English
 
 - section:
-     title: Crazy things yogis can do that are backed by science
-     content: |
-        *    Jhana states: Eventually you can focus your mind so well that you can ignore your senses, and even your body.
-        *    This is very similar to a sensory deprivation state (Paper link). These are called "jhana" states and they are real, not levitation hocus pocus. 
-        *    Stopping your heart
-        *    Changing your body temperature
-
-- section:
      title: But seriously, I just can't meditate. 
      content: |
-        Broadly, there are a lot of ways to meditate, like there are a ton of ways to make music.
-        There are three main kinds of meditation, like guitar. You have classical, acoustic and electric meditation. Just kidding.
+        There are a lot of ways to meditate, like there are a ton of ways to make music.
+        Meditation is like guitar. You have classical, acoustic and electric meditation. Just kidding.
 
         We recommend you start first with samatha, focused attention. For a little endorsement of this particular brand, it's the
-        kind of meditation that the Budhha did.
+        kind of meditation that Budhha did. It's worked for centuries and is easy to pick up and see results with.
 
 - section:
      title: Focused Attention
@@ -67,28 +75,6 @@
         That's the point!  You are learning to sit still, and watch your body and your thoughts as they arise.
 
 - section:
-     title: Compassion Meditation
-     content: |
-        | "You yourself, as much as anybody in the entire universe, deserve your love and affection" - Buddha
-
-        It is great to start or end your sessions with a few minutes of compassion meditation. It really focuses and makes you a better person.
-        Essentially, you inwardly direct love at yourself and others. It's dumb to hate. 
-
-        There is a script:
-
-            May I be filled with loving kindness.
-            May I be safe from inner and outer dangers.
-            May I be well in body and mind.
-            May I be at ease and happy.
-
-        You think it. It feels good. A lot of times you let yourself down, and start disliking yourself. Self hate is terrible thing. Especially since you can choose to love yourself.
-        It's been noted that this kind of meditation really helps to focus better, that "loving" others clears the mind. A good thing to start with would be 5 minutes of loving kindess followed by 10 of
-        focused attention.
-
-        Then you replace it with someone else. Family members, for example. You repeat the phrase. Then, slowly expand this into a circle of people you 
-        are wishing well: your family, your friends, people you know, people you hate. any point you can choose to go back to a previous group.
-
-- section:
      title: Posture
      content: |
         Don't I have to do yoga to meditate? Do I have to be a flexible gymnast and cross my legs?
@@ -98,4 +84,27 @@
         *    Half Lotus
         *    Cross Legged
         *    Sit normally on a chair
+
+- section:
+     title: Compassion Meditation
+     content: |
+        > You yourself, as much as anybody in the entire universe, deserve your love and affection - Buddha
+
+        It is great to start or end your sessions with a few minutes of compassion meditation. It really focuses and makes you a better person.
+        Essentially, you inwardly direct love at yourself and others. It sounds new agey, but it's really an amazing tool. You get rid of your
+        negative views of yourself, and give people the benefit of the doubt more often, and become less irritable.
+
+        There is a script:
+
+            May I be filled with loving kindness.
+            May I be safe from mental and physical dangers.
+            May I be healthy in body and mind.
+            May I be at ease and happy.
+
+        You think it. It feels good. A lot of times you let yourself down, and start disliking yourself. Self hate is terrible thing, especially since you can choose to love yourself.
+        It's been noted that this kind of meditation really helps to focus better, that it clears the mind. A good thing to start with would be 5 minutes of loving kindess followed by 10 of
+        focused attention.
+
+        Then you replace it with someone else. Family members, for example. You repeat the phrase. Then, slowly expand this into a circle of people you 
+        are wishing well: your family, your friends, people you know, people you hate. any point you can choose to go back to a previous group.
 
