@@ -16,15 +16,11 @@
         {% include head.html %}
     </head>
     <body>
-        <article>
         <header style="background-image:url({{site.baseurl}}/images/{{ site.cover_image }});">
                 <h1>{{ site.title }}</h1>
                 {% if site.inc.subtitle %}<h3>{{ site.subtitle }}</h3>{% endif %}
         </header>
-        <section>
         {{ content }}
-        <section>
-        </article>
         {% include scripts.html %}
     </body>
 </html>

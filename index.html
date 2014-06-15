@@ -3,10 +3,13 @@ layout: default
 ---
 <div class="container">
     {% for section in site.data.sections %}
-    <section>
-    <h1>{{ section.title }}</h1>
-    <p>
-    </p>
-    </section>
+    <div class='bgcolor' style="background: {% cycle '#DDF7FD', 'white', '#DDFDE2', '#4D8D8C', '#F1FCDC', '#FCFADC' %}">
+        <section>
+            <h1>{{ section.section.title}}</h1>
+            <p>
+                {{section.section.content | markdownify }}
+            </p>
+        </section>
+    </div>
     {% endfor %}
 </div>
