@@ -84,3 +84,23 @@ Beginners though, find it hard to position themselves. You can also use a chair.
 *    Cross Legged
 *    Sit normally on a chair
 
+<<<<<<< HEAD
+=======
+###Resources
+Peer Reviewed Journal Articles
+
+Can it cure your flu? 
+8 Weeks of mindfulness meditation (MBSR) was associated with an increase in antibody levels and left frontal brain activation associated with positive feelings. The level of the left-sided brain activation predicted the increase in defensive antibodies to the influenza virus. 
+http://www.ncbi.nlm.nih.gov/pubmed/12883106
+
+
+
+
+List some books here, websites, wiki pages
+*    Mindfulness in Plain English
+
+###Advanced
+*    Crazy things yogis can do that are backed by science:
+*    Jhana states: Eventually you can focus your mind so well that you can ignore your senses, and even your body.
+*    This is very similar to a sensory deprivation state (Paper link). These are called "jhana" states and they are real, not levitation hocus pocus. 
+>>>>>>> 66f02240ff44049fab5205be65cd7b6481709a76
