@@ -124,19 +124,19 @@ hr {
 p {
     color:#65777c;
     font-size:1.5em;
-    margin:10px auto 0.2em;
+    margin:10px 0 0.2em;
     line-height:1.45;
 }
 
 blockquote {
     color:#13b38f;
-    font-size:2em;
+    font-size:1.75em;
     //max-width:18em;
     margin:1.5em auto;
     border:0;
     text-align:center;
     line-height:1.2;
-    font-weight:300;
+    font-weight:200;
     padding:0;
 }
 
@@ -264,7 +264,7 @@ footer > div {
     
     section {
         max-width:70em;
-        padding:5em 5%;
+        padding:1em 5%;
     }
     
     header {

@@ -21,19 +21,53 @@ header {
 section {
     margin: auto;
 //    text-align: center;
-    padding-top: 5em;
+    padding-top: 1em;
     padding-right: 5%;
     overflow:hidden;
 }
 
-article { 
+/*article { 
     margin:0 auto 1.5em;
 }
+*/
 .container {
     max-width: 820;
     margin: auto;
 }
 
+.bgcolor {
+    width: 100%;
+}
 header h1 {
     padding-top:15%;
 }
+
+ul  {
+      list-style-type:circle; 
+}
+li {
+    font-size:1.5em;
+    color:#65777c;
+    line-height:1.5em;
+}
+
+blockquote:before {
+    display: block;
+    content: "\201C";
+    font-size: 80px;
+    position: absolute;
+    left: -20px;
+    top: -20px;
+    color: #7a7a7a;
+}
+
+blockquote:after {
+    display: block;
+    content: "\201D";
+    font-size: 80px;
+    position: absolute;
+    left: -20px;
+    top: -20px;
+    color: #7a7a7a;
+}
+
